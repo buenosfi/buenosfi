@@ -54,3 +54,25 @@ b { font-weight: 700; }
   position:relative;
   top:1px;
 }
+
+
+.myButton {
+  background-color: transparent;
+  border:3px solid #ffffff;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family: "Neuton", serif;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none !important;
+  text-transform: uppercase;
+}
+.myButton:hover {
+  background-color:#ffffff;
+  color:#61D8E3;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
