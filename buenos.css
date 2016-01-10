@@ -6,6 +6,8 @@ b { font-weight: 700; }
 
 .about { margin-top: 3em; margin-bottom: 3em; }
 
+.bg-blue { background-color: #61D8E3; }
+
 .row { margin-bottom: 2em; }
 
 .center { margin: 0 auto 0 auto; text-align: center; }
