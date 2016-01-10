@@ -13,7 +13,7 @@ b { font-weight: 700; }
 .jumbotron h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; }
 .jumbotron p { font-family: 'Neuton', serif; font-weight: 300; font-size: 1em; color: #473F64; text-transform: uppercase; }
 
-.thumbnail { background-color: transparent; border: none; }
+.thumbnail { background-color: transparent; border: none; -webkit-box-shadow: none; box-shadow: none; }
 
 .row { margin-bottom: 2em; }
 
