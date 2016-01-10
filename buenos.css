@@ -41,10 +41,11 @@ b { font-weight: 700; }
   display:inline-block;
   cursor:pointer;
   color:#473f64;
-  font-family:Georgia;
+  font-family: "Neuton", serif;
   font-size:17px;
   padding:16px 31px;
-  text-decoration:none;
+  text-decoration:none !important;
+  text-transform: uppercase;
 }
 .myButton:hover {
   background-color:#fed636;
