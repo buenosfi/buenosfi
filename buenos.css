@@ -28,34 +28,3 @@ b { font-weight: 700; }
     height: 100%;
 }
 .page-header { margin: 0px 0px 20px; }
-
-
-
-
-.btn-default { 
-  color: #473F64; 
-  background-color: #FFFFFF; 
-  border-color: #473F64; 
-} 
-
-.btn {
-    display: inline-block;
-    padding: 6px 12px;
-    margin-bottom: 0;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.42857143;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    -ms-touch-action: manipulation;
-    touch-action: manipulation;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-image: none;
-    border: 2px solid transparent;
-    border-radius: 0px;
-}
