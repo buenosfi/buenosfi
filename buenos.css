@@ -33,3 +33,23 @@ b { font-weight: 700; }
     height: 100%;
 }
 .page-header { margin: 0px 0px 20px; }
+
+
+.myButton {
+  background-color:#ffffff;
+  border:3px solid #473f64;
+  display:inline-block;
+  cursor:pointer;
+  color:#473f64;
+  font-family:Georgia;
+  font-size:17px;
+  padding:16px 31px;
+  text-decoration:none;
+}
+.myButton:hover {
+  background-color:#fed636;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
