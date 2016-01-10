@@ -41,14 +41,15 @@ b { font-weight: 700; }
   display:inline-block;
   cursor:pointer;
   color:#473f64;
-  font-family: "Neuton", serif;
-  font-size:17px;
-  padding:16px 31px;
+  font-family: "Ultra", serif;
+  font-size:1.5em;
+  padding:10px 31px;
   text-decoration:none !important;
   text-transform: uppercase;
 }
 .myButton:hover {
-  background-color:#fed636;
+  background-color:#473f64;
+  color:#ffffff;
 }
 .myButton:active {
   position:relative;
@@ -62,9 +63,9 @@ b { font-weight: 700; }
   display:inline-block;
   cursor:pointer;
   color:#ffffff;
-  font-family: "Neuton", serif;
-  font-size:17px;
-  padding:16px 31px;
+  font-family: "Ultra", serif;
+  font-size:1.5em;
+  padding:10px 31px;
   text-decoration:none !important;
   text-transform: uppercase;
 }
