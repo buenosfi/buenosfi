@@ -10,8 +10,8 @@ b { font-weight: 700; }
 
 .jumbotron .container { margin-top: 3em; }
 
-.jumbotron h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; }
-.jumbotron p { font-family: 'Neuton', serif; font-weight: 400; font-size: 1.2em; color: #473F64; text-transform: uppercase; }
+.jumbotron h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; letter-spacing:1px; }
+.jumbotron p { font-family: 'Neuton', serif; font-weight: 400; font-size: 1.2em; color: #473F64; text-transform: uppercase; letter-spacing:1px; }
 
 .thumbnail { background-color: transparent; border: none; -webkit-box-shadow: none; box-shadow: none; }
 
