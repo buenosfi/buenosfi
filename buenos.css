@@ -11,7 +11,7 @@ b { font-weight: 700; }
 .bg-blue { background-color: #61D8E3; }
 .bg-yellow { background-color: #FED636; }
 
-.jumbotron .container { margin-top: 3em; }
+.jumbotron .container { /*margin-top: 3em;*/ }
 
 .jumbotron h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; letter-spacing:1px; }
 .jumbotron p { font-family: 'Neuton', serif; font-weight: 400; font-size: 1.2em; color: #ffffff; text-transform: uppercase; letter-spacing:1px; }
