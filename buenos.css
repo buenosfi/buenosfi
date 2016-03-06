@@ -16,7 +16,7 @@ b { font-weight: 700; }
 .jumbotron h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; letter-spacing:1px; }
 .jumbotron p { font-family: 'Ultra', serif; font-weight: 800; font-size: 1.2em; color: #E04376; text-transform: uppercase; letter-spacing:1px; margin-top: 1em; }
 
-.jumbo-user-flow { padding-top: 0; padding-bottom: 0; margin-bottom: 0; }
+.jumbo-user-flow { padding-top: 0; padding-bottom: 0; margin-bottom: 0; margin-top: -5px; }
 
 .flipped { 
   /* Rotate div */
