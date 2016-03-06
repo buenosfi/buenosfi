@@ -17,8 +17,8 @@ b { font-weight: 700; }
 .jumbotron p, .buenos-tiimi p { font-family: 'Ultra', serif; font-weight: 800; font-size: 1.2em; color: #E04376; text-transform: uppercase; letter-spacing:1px; margin-top: 1em; }
 
 .buenos-tiimi h1 { font-family: 'Ultra', serif; font-size: 3em; color: #ffffff; margin-bottom: 1em; }
-.buenos-tiimi h3 { font-family: 'Neuton', serif; font-weight: 800; color: #ffffff; }
-.buenos-tiimi p { font-family: 'Neuton', serif; font-weight: 400; color: #ffffff; }
+.buenos-tiimi h3 { font-family: 'Neuton', serif; font-weight: 800; color: #ffffff; margin-bottom: 0.3em; }
+.buenos-tiimi p { font-family: 'Neuton', serif; font-weight: 400; color: #ffffff; margin-top: 0em; }
 
 
 
