@@ -13,10 +13,11 @@ b { font-weight: 700; }
 
 .jumbotron .container { /*margin-top: 3em;*/ padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 
-.jumbotron h3, .buenos-tiimi { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; letter-spacing:1px; }
-.jumbotron p, .buenos-tiimi { font-family: 'Ultra', serif; font-weight: 800; font-size: 1.2em; color: #E04376; text-transform: uppercase; letter-spacing:1px; margin-top: 1em; }
+.jumbotron h3, .buenos-tiimi h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; letter-spacing:1px; }
+.jumbotron p, .buenos-tiimi p { font-family: 'Ultra', serif; font-weight: 800; font-size: 1.2em; color: #E04376; text-transform: uppercase; letter-spacing:1px; margin-top: 1em; }
 
-.buenos-tiimi p, .buenos-tiimi h3 { color: #ffffff; }
+.buenos-tiimi h3 { font-family: 'Neuton', serif; font-weight: 800; color: #ffffff; }
+.buenos-tiimi p { font-family: 'Neuton', serif; font-weight: 400; color: #ffffff; }
 
 .jumbo-user-flow { padding-top: 0; padding-bottom: 0; margin-bottom: 0; margin-top: -5px; }
 
