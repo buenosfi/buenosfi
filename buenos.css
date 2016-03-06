@@ -12,14 +12,19 @@ b { font-weight: 700; }
 .bg-yellow { background-color: #FED636; padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 .bg-white { background-color: #ffffff; padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 
-.color-E04376 { color: #E04376; }
-.color-61D8E3 { color: #61D8E3; }
-.color-473F64 { color: #473F64; }
+.color-E04376 { color: #E04376 !important; }
+.color-61D8E3 { color: #61D8E3 !important; }
+.color-473F64 { color: #473F64 !important; }
 
 .jumbotron .container { /*margin-top: 3em;*/ padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 
 .jumbotron h3, .buenos-tiimi h3 { font-family: 'Ultra', serif; font-size: 1.5em; color: #E04376; text-transform: uppercase; letter-spacing:1px; }
 .jumbotron p, .buenos-tiimi p { font-family: 'Ultra', serif; font-weight: 800; font-size: 1.2em; color: #E04376; text-transform: uppercase; letter-spacing:1px; margin-top: 1em; }
+
+
+.buenos-paketit h1 { font-family: 'Ultra', serif; font-size: 3em; color: #ffffff; margin-bottom: 1em; }
+.buenos-paketit h3 { font-family: 'Neuton', serif; font-weight: 800; color: #ffffff; margin-bottom: 0.3em; }
+.buenos-paketit p { font-family: 'Neuton', serif; font-weight: 400; color: #ffffff; margin-top: 0em; }
 
 .buenos-tiimi h1 { font-family: 'Ultra', serif; font-size: 3em; color: #ffffff; margin-bottom: 1em; }
 .buenos-tiimi h3 { font-family: 'Neuton', serif; font-weight: 800; color: #ffffff; margin-bottom: 0.3em; }
