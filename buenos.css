@@ -9,7 +9,7 @@ b { font-weight: 700; }
 .about { margin-top: 3em; margin-bottom: 3em; }
 
 .bg-blue { background-color: #61D8E3; }
-.bg-yellow { background-color: #FED636; }
+.bg-yellow { background-color: #FED636; padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 
 .jumbotron .container { /*margin-top: 3em;*/ padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 
