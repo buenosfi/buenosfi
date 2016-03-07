@@ -22,6 +22,7 @@ b { font-weight: 700; }
 .jumbotron p, .buenos-about p, .buenos-tiimi p, .buenos-paketit p { font-family: 'Ultra', serif; font-weight: 800; font-size: 1.4em; color: #E04376; text-transform: uppercase; letter-spacing:1px; margin-top: 1em; }
 
 .buenos-about h1 { font-family: 'Ultra', serif; font-size: 3em; color: #E04376; margin-bottom: 1em; margin-top: 0em; }
+.buenos-about h1.foo { margin-top: 1.5em; }
 .buenos-about h3 { font-family: 'Neuton', serif; font-weight: 800; color: #ffffff; margin-bottom: 0.3em; }
 .buenos-about p { font-family: 'Neuton', serif; font-weight: 700; font-size: 1.4em; color: #473F64; margin-top: 0em; margin-bottom: 0.8em; text-transform: none; letter-spacing: 0; }
 
